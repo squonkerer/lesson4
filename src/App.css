@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  margin: 1px;
+  padding: 1px;
+}
+
+.container {
+  padding: 5px;
+}
+
+.inBasket {
+  background-color: green;
+  color: white;
 }
 
 .App-logo {
